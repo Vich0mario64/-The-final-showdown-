@@ -14,11 +14,11 @@
 
 ## Normas internas
 
-- Canal de comunicación:
-- Horario de coordinación:
-- Forma de tomar decisiones:
-- Procedimiento ante inasistencia:
-- Procedimiento ante tareas atrasadas:
+- Canal de comunicación: Discord 
+- Horario de coordinación: Horario de clases 
+- Forma de tomar decisiones: Pausada 
+- Procedimiento ante inasistencia: Preguntar que hicieron en la clase 
+- Procedimiento ante tareas atrasadas: -
 
 ## Compromisos
 
