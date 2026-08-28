@@ -2,15 +2,15 @@
 
 ## Proyecto
 
-- Nombre provisional:
-- Organización:
-- Fecha:
+- Nombre provisional: The final showdown
+- Organización: Vicente Gutierrez (yo)
+- Fecha:-
 
 ## Integrantes y roles
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-| | | | |
+| Vicente Gutierrez|Programar, Diseñar y Textear | | |
 | | | | |
 | | | | |
 | | | | |
