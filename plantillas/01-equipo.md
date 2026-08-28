@@ -10,11 +10,7 @@
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-| Vicente Gutierrez|Programar, Diseñar y Textear |Diseñar  |Crear concepto, objetivos y el proyecto |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Vicente Gutierrez|Programar, Diseñar y Textear |  Diseñar  |Crear concepto, objetivos y el proyecto |
 
 ## Normas internas
 
