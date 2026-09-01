@@ -17,8 +17,8 @@ para que se pueda mejorar el progreso del jugador competitivo, a través de un r
 
 ## Alcance: incluye
 
-- 
-- 
+- Jugadores 
+- Administradores y Organizadores 
 - 
 
 ## Alcance: no incluye
