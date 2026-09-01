@@ -1,6 +1,7 @@
 # Objetivos y alcance
 
 ## Objetivo general
+Crear el ranking de smash de arica 
 
 
 ## Objetivos específicos
