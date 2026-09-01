@@ -17,9 +17,9 @@ para que se pueda mejorar el progreso del jugador competitivo, a través de un r
 
 ## Alcance: incluye
 
-- Jugadores 
+- Jugadores ( exclusivamente de Arica, por ahora) 
 - Administradores y Organizadores 
-- 
+- Gente que se une a la comunidad de Arica  
 
 ## Alcance: no incluye
 
