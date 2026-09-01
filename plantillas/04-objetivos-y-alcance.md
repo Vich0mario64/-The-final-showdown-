@@ -1,7 +1,8 @@
 # Objetivos y alcance
 
 ## Objetivo general
-Crear el ranking de smash de arica 
+"Desarrollar una aplicación web que ordene a los jugadores de Super Smash Bros Ultimate de mejor a peor de manera sencilla y autónoma,
+para que se pueda mejorar el progreso del jugador competitivo, a través de un ranking"  
 
 
 ## Objetivos específicos
