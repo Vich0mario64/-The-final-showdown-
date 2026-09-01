@@ -6,7 +6,7 @@ Crear el ranking de smash de arica
 
 ## Objetivos específicos
 
-1. 
+1. Pagina web estable 
 2. 
 3. 
 4. 
