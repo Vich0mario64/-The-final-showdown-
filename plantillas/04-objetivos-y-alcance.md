@@ -8,7 +8,7 @@ para que se pueda mejorar el progreso del jugador competitivo, a través de un r
 ## Objetivos específicos
 
 1. Pagina web estable 
-2. 
+2. Entendible para el publico especifico 
 3. 
 4. 
 
